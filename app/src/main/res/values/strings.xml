@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week2</string>
+    <string name="button_activity_2">Activity #2</string>
+    <string name="alertdialog">AlertDialog</string>
+</resources>
